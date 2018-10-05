@@ -1,8 +1,18 @@
 # CardPortfolio1
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/card_portfolio_1`. To experiment with that code, run `bin/console` for an interactive prompt.
+okay here we go!
+I'm creating a program called 'The Card Shop', a basic CLI that will retreive information about the different card editions, and the
+characters within each edition, pulled off of the website www.musicthegathering.com.
+Some information:
 
-TODO: Delete this and the text above, and describe your gem
+-most edition have one or many characters
+-characters belong to editions
+-each character has a info description that the user should have access to.
+-I would love if the program can list the editions based on what's available currently on the website, rather than hardwired at
+5 editions, so if new additions were added, the list would update to reflect that
+-I would love it if you can search for a card by typing the name of the card and finding out which edition it's in
+
+
 
 ## Installation
 
