@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require './lib/card_portfolio_1'
+CardPortfolio1::Controller.new.call
