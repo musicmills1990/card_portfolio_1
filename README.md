@@ -12,6 +12,18 @@ Some information:
 5 editions, so if new additions were added, the list would update to reflect that
 -I would love it if you can search for a card by typing the name of the card and finding out which edition it's in
 
+looking at my editions to make them real:
+-an edition has a name
+-an edition has an image (not sure if that's usable)
+-an edition has a URL
+
+things I still need to do:
+
+figure out why my pry and bin console isn't working
+scrape and experiment with the title information to get the scrape editions method to work
+go to my characters class and start adding the scraped material to change my CLI
+eat food.
+
 
 
 ## Installation
