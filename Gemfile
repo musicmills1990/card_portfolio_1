@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
 # Specify your gem's dependencies in card_portfolio_1.gemspec
 gemspec
-#require "pry"
-#Pry.start
+require "pry"
+Pry.start
